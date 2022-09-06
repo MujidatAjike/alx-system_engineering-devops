@@ -1,0 +1,21 @@
+total 96
+drwxr-xr-x 2 root root  4096 Sep  6 01:36 .
+drwxr-xr-x 6 root root   121 Sep  5 15:16 ..
+-rwxr--r-- 1 root root    32 Sep  5 15:23 0-hello_world
+-rw-r--r-- 1 root root    48 Sep  5 17:15 10-no_more_js
+-rw-r--r-- 1 root root    44 Sep  5 17:19 11-directories
+-rwxr--r-- 1 root root    28 Sep  5 15:51 1-confused_smiley
+-rwxr--r-- 1 root root    28 Sep  5 15:32 2-hellofile
+-rwxr--r-- 1 root root    39 Sep  5 15:35 3-twofiles
+-rwxr--r-- 1 root root    29 Sep  5 16:04 4-lastlines
+-rwxr--r-- 1 root root    29 Sep  5 16:06 5-firstlines
+-rwxr--r-- 1 root root    36 Sep  5 16:34 6-third_line
+-rw------- 1 root root 12288 Sep  5 16:24 .6-third_line.swp
+-rwxr--r-- 1 root root    79 Sep  5 17:03 7-file
+-rw------- 1 root root 12288 Sep  5 16:53 .7-file.swp
+-rwxr--r-- 1 root root    37 Sep  5 17:09 8-cwd_state
+-rw------- 1 root root 12288 Sep  5 17:04 .8-cwd_state.swp
+-rw-r--r-- 1 root root    35 Sep  5 17:11 9-duplicate_last_line
+-rw-r--r-- 1 root root    38 Sep  6 01:35 \*\'Best
+-rw-r--r-- 1 root root     0 Sep  6 01:36 ls_cwd_content
+-rw-r--r-- 1 root root    19 Sep  5 15:37 README.md
